@@ -1,4 +1,4 @@
-s#include <ESP8266WiFi.h>
+#include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
                           
 #define FIREBASE_HOST "meter-gsm-default-rtdb.firebaseio.com"                     //Your Firebase Project URL goes here without "http:" , "\" and "/"
